@@ -1,2 +1,2 @@
 # fangzhiqiang-search-rules-vomic
-Browser search rules (漫画)
+Browser search rules (图集)
